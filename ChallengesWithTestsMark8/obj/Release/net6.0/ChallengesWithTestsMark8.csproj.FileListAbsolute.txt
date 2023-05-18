@@ -1,0 +1,15 @@
+/Users/bexmetzger/Desktop/repos/WeeklyChallenges/ChallengesWithTestsMark8/bin/Release/net6.0/ChallengesWithTestsMark8
+/Users/bexmetzger/Desktop/repos/WeeklyChallenges/ChallengesWithTestsMark8/bin/Release/net6.0/ChallengesWithTestsMark8.deps.json
+/Users/bexmetzger/Desktop/repos/WeeklyChallenges/ChallengesWithTestsMark8/bin/Release/net6.0/ChallengesWithTestsMark8.runtimeconfig.json
+/Users/bexmetzger/Desktop/repos/WeeklyChallenges/ChallengesWithTestsMark8/bin/Release/net6.0/ChallengesWithTestsMark8.dll
+/Users/bexmetzger/Desktop/repos/WeeklyChallenges/ChallengesWithTestsMark8/bin/Release/net6.0/ChallengesWithTestsMark8.pdb
+/Users/bexmetzger/Desktop/repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Release/net6.0/ChallengesWithTestsMark8.csproj.AssemblyReference.cache
+/Users/bexmetzger/Desktop/repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Release/net6.0/ChallengesWithTestsMark8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bexmetzger/Desktop/repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Release/net6.0/ChallengesWithTestsMark8.AssemblyInfoInputs.cache
+/Users/bexmetzger/Desktop/repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Release/net6.0/ChallengesWithTestsMark8.AssemblyInfo.cs
+/Users/bexmetzger/Desktop/repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Release/net6.0/ChallengesWithTestsMark8.csproj.CoreCompileInputs.cache
+/Users/bexmetzger/Desktop/repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Release/net6.0/ChallengesWithTestsMark8.dll
+/Users/bexmetzger/Desktop/repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Release/net6.0/refint/ChallengesWithTestsMark8.dll
+/Users/bexmetzger/Desktop/repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Release/net6.0/ChallengesWithTestsMark8.pdb
+/Users/bexmetzger/Desktop/repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Release/net6.0/ChallengesWithTestsMark8.genruntimeconfig.cache
+/Users/bexmetzger/Desktop/repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Release/net6.0/ref/ChallengesWithTestsMark8.dll
