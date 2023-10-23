@@ -44,13 +44,14 @@ namespace ChallengesWithTestsMark8
                 return 0;
             }
             int sum = 0;
-            for(int i = 1, i < numbers.Length; i++)
+            for(int i = 1; i < numbers.Length; i++)
             {
                 if (numbers[i - 1] % 2 == 0)
                 {
                     sum += numbers[i];
                 }
             }
+            return sum;
         }
 
         public string TurnWordsIntoSentence(string[] words)
@@ -66,7 +67,7 @@ namespace ChallengesWithTestsMark8
             {
                 if(word.Trim().Length > 0)
                 {
-                    sentence += word.Trim() + "";
+                    sentence += word.Trim() + " ";
                 }
             }
 
@@ -98,9 +99,9 @@ namespace ChallengesWithTestsMark8
 
         public bool TwoDifferentElementsInArrayCanSumToTargetNumber(int[] nums, int targetNumber)
         {
-            for(int i = 0; i <nums.Length; i++)
+            for (int i = 0; i < nums.Length; i++)
             {
-                for(int j = i + 1; j < nums.Length; j++)
+                for (int j = i + 1; j < nums.Length; j++)
                 {
                     if (nums[i] + nums[j] == targetNumber)
                     {
@@ -109,5 +110,6 @@ namespace ChallengesWithTestsMark8
                 }
             }
             return false;
+        }   
     }
 }
